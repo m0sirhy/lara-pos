@@ -2,13 +2,14 @@
 Point of Sale Using Laravel 
 
 
-Its  an online accounting software that allows you to easily manage the money flowing in and out of your business. Manage your customers, suppliers, transactions, Inventory, Sale/ Purchase, Ledgers, Registers and bank statement
+Its  an online accounting software that allows you to easily manage the money flowing in and out of your business. 
+Manage your customers, suppliers, transactions, Inventory, Sale/ Purchase, Ledgers, and Registers,
  Since its an  PHP based solution, so it can be integrated in any of the web based system easily..
 
 List of Modules:
 Users Management
 Company
-Master
+Master:
 -Customer
 -Suppliers
 -Account Groups
@@ -25,19 +26,16 @@ Products & Services:
 
 Purchase:
 -Purchase Price list
--Purchase Quotation
 -Purchase Orders
 -Purchase Invoice
 -Purchase Return
 
 Sale:
--Sales Quotation
 -Sales Orders
 -Sales Invoice
 -Sales Return
 
 Transactions:
--Bank Reconciliation
 -Journal Voucher
 -Payment Voucher
 -Receipt Voucher
@@ -59,8 +57,5 @@ Reports:
 -Stock Report
 
 Setting:
--Email Settings
 -User Creation
--Bank Account
--Financial Year
--Countries
+
