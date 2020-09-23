@@ -37,7 +37,7 @@
                     
                             <div class="form-group">
                                 <label>@lang('site.phone')</label>
-                                <input type="text" name="phone[]" class="form-control">
+                                <input type="text" name="phone" class="form-control">
                             </div>
                       
 
