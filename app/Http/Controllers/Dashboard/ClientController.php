@@ -32,7 +32,7 @@ class ClientController extends Controller
     {
         $request->validate([
             'name' => 'required',
-            'phone' => 'required|array|min:1',
+            'phone' => 'required|min:1',
             'phone.0' => 'required',
             'address' => 'required',
         ]);
