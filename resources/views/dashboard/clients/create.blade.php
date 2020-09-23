@@ -34,12 +34,12 @@
                             <input type="text" name="name" class="form-control" value="{{ old('name') }}">
                         </div>
 
-                       @for ($i = 0; $i < 2; $i++)
+                    
                             <div class="form-group">
                                 <label>@lang('site.phone')</label>
                                 <input type="text" name="phone[]" class="form-control">
                             </div>
-                       @endfor
+                      
 
                         <div class="form-group">
                             <label>@lang('site.address')</label>
